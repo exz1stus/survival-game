@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: aff8c19221a90e04792138ff5474dcef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3518621440166700055
+    second: test_space_trash_0
+  - first:
+      213: 5296924081391663256
+    second: test_space_trash_1
+  - first:
+      213: -1348492150470839039
+    second: test_space_trash_2
+  - first:
+      213: -7658305663729356645
+    second: test_space_trash_3
+  - first:
+      213: -4758910840155394058
+    second: test_space_trash_4
+  - first:
+      213: -7654040434332898628
+    second: test_space_trash_5
+  - first:
+      213: -5284971189050251513
+    second: test_space_trash_6
+  - first:
+      213: 3142500103881205206
+    second: test_space_trash_7
+  - first:
+      213: -8481605114913539212
+    second: test_space_trash_8
+  - first:
+      213: 1167512850342744136
+    second: test_space_trash_9
+  - first:
+      213: 4234385124401995539
+    second: test_space_trash_10
+  - first:
+      213: 253508538426406535
+    second: test_space_trash_11
+  - first:
+      213: 398260875997960753
+    second: test_space_trash_12
+  - first:
+      213: -3997259001794690317
+    second: test_space_trash_13
+  - first:
+      213: 5229975809095001087
+    second: test_space_trash_14
+  - first:
+      213: -76314981939700029
+    second: test_space_trash_15
+  - first:
+      213: 916949929426680355
+    second: test_space_trash_16
+  - first:
+      213: 8693320509304820786
+    second: test_space_trash_17
+  - first:
+      213: -8864738805623687843
+    second: test_space_trash_18
+  - first:
+      213: -8932889656112621593
+    second: test_space_trash_19
+  - first:
+      213: 8749618238662555760
+    second: test_space_trash_20
+  - first:
+      213: 9154277812980697121
+    second: test_space_trash_21
+  - first:
+      213: 5256829726744107227
+    second: test_space_trash_22
+  - first:
+      213: -6494557001579622396
+    second: test_space_trash_23
+  - first:
+      213: -7637272876301453533
+    second: test_space_trash_24
+  - first:
+      213: 2453703371605305008
+    second: test_space_trash_25
+  - first:
+      213: 8198987942430011488
+    second: test_space_trash_26
+  - first:
+      213: 6758504616901992619
+    second: test_space_trash_27
+  - first:
+      213: -1311764219878887862
+    second: test_space_trash_28
+  - first:
+      213: 7257882243658699138
+    second: test_space_trash_29
+  - first:
+      213: 2658631223544596332
+    second: test_space_trash_30
+  - first:
+      213: 4828123752470418277
+    second: test_space_trash_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: test_space_trash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb5acf41785b2fc0800000000000000
+      internalID: -3518621440166700055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 230
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ff814364728940800000000000000
+      internalID: 5296924081391663256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 230
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10578c4a881394de0800000000000000
+      internalID: -1348492150470839039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bc04039b38b590800000000000000
+      internalID: -7658305663729356645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff28cefdc3f4fdb0800000000000000
+      internalID: -4758910840155394058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 210
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6c1f17c267c590800000000000000
+      internalID: -7654040434332898628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 210
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076c7c54b208a6b0800000000000000
+      internalID: -5284971189050251513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 210
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a77ed1376c9b20800000000000000
+      internalID: 3142500103881205206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 210
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3170e5194b4a80800000000000000
+      internalID: -8481605114913539212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 210
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840126b60c6d33010800000000000000
+      internalID: 1167512850342744136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fdd2ef5de83ca30800000000000000
+      internalID: 4234385124401995539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 190
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7863f6c2ca4a48300800000000000000
+      internalID: 253508538426406535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 190
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a5bc91828e68500800000000000000
+      internalID: 398260875997960753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 190
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28bc2cd12e688c0800000000000000
+      internalID: -3997259001794690317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36efce94b949840800000000000000
+      internalID: 5229975809095001087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9172adefd0fef0800000000000000
+      internalID: -76314981939700029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 138
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32afb444a19a9bc00800000000000000
+      internalID: 916949929426680355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 138
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345bbba1f0e4a870800000000000000
+      internalID: 8693320509304820786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 190
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55fd20160f1af480800000000000000
+      internalID: -8864738805623687843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 190
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e755adaf20080480800000000000000
+      internalID: -8932889656112621593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b2cb3e63ec6970800000000000000
+      internalID: 8749618238662555760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 170
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12844f16b278a0f70800000000000000
+      internalID: 9154277812980697121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 170
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8db4bd8c204f840800000000000000
+      internalID: 5256829726744107227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 170
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400125311d2bed5a0800000000000000
+      internalID: -6494557001579622396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 170
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327735378c4f20690800000000000000
+      internalID: -7637272876301453533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 170
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b666b8573e4d0220800000000000000
+      internalID: 2453703371605305008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607042f718a8c170800000000000000
+      internalID: 8198987942430011488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 150
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e74714280bcd50800000000000000
+      internalID: 6758504616901992619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2d0d546dabcde0800000000000000
+      internalID: -1311764219878887862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 150
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28154ea527d29b460800000000000000
+      internalID: 7257882243658699138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 150
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674324030b55e420800000000000000
+      internalID: 2658631223544596332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test_space_trash_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 150
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56310ade8f0f00340800000000000000
+      internalID: 4828123752470418277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      test_space_trash_1: 5296924081391663256
+      test_space_trash_27: 6758504616901992619
+      test_space_trash_5: -7654040434332898628
+      test_space_trash_3: -7658305663729356645
+      test_space_trash_11: 253508538426406535
+      test_space_trash_30: 2658631223544596332
+      test_space_trash_16: 916949929426680355
+      test_space_trash_2: -1348492150470839039
+      test_space_trash_4: -4758910840155394058
+      test_space_trash_28: -1311764219878887862
+      test_space_trash_14: 5229975809095001087
+      test_space_trash_17: 8693320509304820786
+      test_space_trash_18: -8864738805623687843
+      test_space_trash_26: 8198987942430011488
+      test_space_trash_25: 2453703371605305008
+      test_space_trash_15: -76314981939700029
+      test_space_trash_7: 3142500103881205206
+      test_space_trash_6: -5284971189050251513
+      test_space_trash_12: 398260875997960753
+      test_space_trash_8: -8481605114913539212
+      test_space_trash_20: 8749618238662555760
+      test_space_trash_23: -6494557001579622396
+      test_space_trash_29: 7257882243658699138
+      test_space_trash_22: 5256829726744107227
+      test_space_trash_24: -7637272876301453533
+      test_space_trash_31: 4828123752470418277
+      test_space_trash_0: -3518621440166700055
+      test_space_trash_21: 9154277812980697121
+      test_space_trash_13: -3997259001794690317
+      test_space_trash_10: 4234385124401995539
+      test_space_trash_9: 1167512850342744136
+      test_space_trash_19: -8932889656112621593
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

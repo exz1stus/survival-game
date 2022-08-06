@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Bloody Tile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1012710071336862709, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: 5061018944811498317, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: 440850684514411757, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: -1780632722291464862, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: -5560948729928346541, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: -6848096318752922496, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: -5932108020944736255, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: 4118205218130325754, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: 7627833467553687919, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: -7199347201272762680, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  - {fileID: -6967555239103420667, guid: 783d82898f7b4d042bb731af3f0ec38c, type: 3}
+  m_MinSpeed: 15
+  m_MaxSpeed: 15
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

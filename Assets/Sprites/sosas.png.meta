@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: a7669b33f9c27634d8dd4c188959de4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3086666952845129795
+    second: sosas_0
+  - first:
+      213: 2751389080898317961
+    second: sosas_1
+  - first:
+      213: -5291581942537291495
+    second: sosas_2
+  - first:
+      213: 9067132418288323210
+    second: sosas_3
+  - first:
+      213: -4006186874145347083
+    second: sosas_4
+  - first:
+      213: 8473000922670126360
+    second: sosas_5
+  - first:
+      213: 8505777020670762250
+    second: sosas_6
+  - first:
+      213: -2785411417068768081
+    second: sosas_7
+  - first:
+      213: 1241449559026607281
+    second: sosas_8
+  - first:
+      213: -7530120258195479972
+    second: sosas_9
+  - first:
+      213: -8471063816946486673
+    second: sosas_10
+  - first:
+      213: 4481328800059082771
+    second: sosas_11
+  - first:
+      213: 2595415699835754170
+    second: sosas_12
+  - first:
+      213: 3321446222493127069
+    second: sosas_13
+  - first:
+      213: 5105613541775734553
+    second: sosas_14
+  - first:
+      213: -6991514930742348852
+    second: sosas_15
+  - first:
+      213: -8392824451344112965
+    second: sosas_16
+  - first:
+      213: -6983065864511576347
+    second: sosas_17
+  - first:
+      213: -4236669056974168458
+    second: sosas_18
+  - first:
+      213: 9213253812431419485
+    second: sosas_19
+  - first:
+      213: 5798348530784302390
+    second: sosas_20
+  - first:
+      213: -7801486822910872345
+    second: sosas_21
+  - first:
+      213: -3985714644116671659
+    second: sosas_22
+  - first:
+      213: 4746031250160219108
+    second: sosas_23
+  - first:
+      213: 847631238992211361
+    second: sosas_24
+  - first:
+      213: -309475368854763351
+    second: sosas_25
+  - first:
+      213: 3399645719746020057
+    second: sosas_26
+  - first:
+      213: 4265572755778889523
+    second: sosas_27
+  - first:
+      213: 7931544121116713206
+    second: sosas_28
+  - first:
+      213: 6384912504869600840
+    second: sosas_29
+  - first:
+      213: 9074176948199508618
+    second: sosas_30
+  - first:
+      213: -7607349920539530879
+    second: sosas_31
+  - first:
+      213: -586621738951275892
+    second: sosas_32
+  - first:
+      213: 1702731861532920894
+    second: sosas_33
+  - first:
+      213: 3459357579172139152
+    second: sosas_34
+  - first:
+      213: 6379535948957681544
+    second: sosas_35
+  - first:
+      213: -8283931655040778305
+    second: sosas_36
+  - first:
+      213: 6726432720499174300
+    second: sosas_37
+  - first:
+      213: 2172349391961220991
+    second: sosas_38
+  - first:
+      213: 4923523777807070559
+    second: sosas_39
+  - first:
+      213: 5966274111007725819
+    second: sosas_40
+  - first:
+      213: -6372956931489688991
+    second: sosas_41
+  - first:
+      213: -777523314908982255
+    second: sosas_42
+  - first:
+      213: -2908112775918279147
+    second: sosas_43
+  - first:
+      213: 3797969391773003988
+    second: sosas_44
+  - first:
+      213: -3117529066528633666
+    second: sosas_45
+  - first:
+      213: 2452748962238069841
+    second: sosas_46
+  - first:
+      213: 8924397127720660542
+    second: sosas_47
+  - first:
+      213: -4586850750143567304
+    second: sosas_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sosas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78abf92c4f925d0800000000000000
+      internalID: -3086666952845129795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e25d5aac5ee2620800000000000000
+      internalID: 2751389080898317961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919713f52468096b0800000000000000
+      internalID: -5291581942537291495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a018b05ece4dd70800000000000000
+      internalID: 9067132418288323210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ebbe734a2768c0800000000000000
+      internalID: -4006186874145347083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8155f418275269570800000000000000
+      internalID: 8473000922670126360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd2cf72279a0670800000000000000
+      internalID: 8505777020670762250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa47c4ce21b3859d0800000000000000
+      internalID: -2785411417068768081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 127
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a854ebc38a3110800000000000000
+      internalID: 1241449559026607281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 125
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52294e7583af7790800000000000000
+      internalID: -7530120258195479972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f627d31175cb07a80800000000000000
+      internalID: -8471063816946486673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cf31fcc0e03e30800000000000000
+      internalID: 4481328800059082771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69e21f3d4c40420800000000000000
+      internalID: 2595415699835754170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d911448ddb5281e20800000000000000
+      internalID: 3321446222493127069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 96
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91777fd2778cad640800000000000000
+      internalID: 5105613541775734553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 117
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3334f863629fe90800000000000000
+      internalID: -6991514930742348852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2eb6be0a2b68b80800000000000000
+      internalID: -8392824451344112965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 114
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a1a6189a271f90800000000000000
+      internalID: -6983065864511576347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e5a2480f35435c0800000000000000
+      internalID: -4236669056974168458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58fc7b478d0cdf70800000000000000
+      internalID: 9213253812431419485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357e4d844fd77050800000000000000
+      internalID: 5798348530784302390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b180911d8bb390800000000000000
+      internalID: -7801486822910872345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5537a5df5a5efa8c0800000000000000
+      internalID: -3985714644116671659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f3b6c64a4dd140800000000000000
+      internalID: 4746031250160219108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada7a4fe1463cb00800000000000000
+      internalID: 847631238992211361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cdacaac584bbf0800000000000000
+      internalID: -309475368854763351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 57
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d283af15c7fd2f20800000000000000
+      internalID: 3399645719746020057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 61
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337e8c742db523b30800000000000000
+      internalID: 4265572755778889523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 63
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ef73ea51821e60800000000000000
+      internalID: 7931544121116713206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb3be2814cb9850800000000000000
+      internalID: 6384912504869600840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 51
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a487a7bd3fded70800000000000000
+      internalID: 9074176948199508618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 51
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18925208d834d6690800000000000000
+      internalID: -7607349920539530879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 43
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8940f2a6ebd7f0800000000000000
+      internalID: -586621738951275892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 43
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc86a4b9151a710800000000000000
+      internalID: 1702731861532920894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905c99c36b120030800000000000000
+      internalID: 3459357579172139152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 17
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870575352aa88850800000000000000
+      internalID: 6379535948957681544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3ea5cc00990d80800000000000000
+      internalID: -8283931655040778305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9beaeecbe6195d50800000000000000
+      internalID: 6726432720499174300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7762eb234cb52e10800000000000000
+      internalID: 2172349391961220991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55316b3aced35440800000000000000
+      internalID: 4923523777807070559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8993b71b67cc250800000000000000
+      internalID: 5966274111007725819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16291b9af65be87a0800000000000000
+      internalID: -6372956931489688991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11414422aaea535f0800000000000000
+      internalID: -777523314908982255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ad9096de44a7d0800000000000000
+      internalID: -2908112775918279147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_44
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0bf601a0915b430800000000000000
+      internalID: 3797969391773003988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc0b94d4df4cb4d0800000000000000
+      internalID: -3117529066528633666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c78699f2ae90220800000000000000
+      internalID: 2452748962238069841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6e4877e3d9db70800000000000000
+      internalID: 8924397127720660542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sosas_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a65ff7b8b3850c0800000000000000
+      internalID: -4586850750143567304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sosas_31: -7607349920539530879
+      sosas_39: 4923523777807070559
+      sosas_9: -7530120258195479972
+      sosas_46: 2452748962238069841
+      sosas_13: 3321446222493127069
+      sosas_34: 3459357579172139152
+      sosas_18: -4236669056974168458
+      sosas_3: 9067132418288323210
+      sosas_1: 2751389080898317961
+      sosas_0: -3086666952845129795
+      sosas_6: 8505777020670762250
+      sosas_38: 2172349391961220991
+      sosas_42: -777523314908982255
+      sosas_27: 4265572755778889523
+      sosas_41: -6372956931489688991
+      sosas_43: -2908112775918279147
+      sosas_47: 8924397127720660542
+      sosas_11: 4481328800059082771
+      sosas_30: 9074176948199508618
+      sosas_4: -4006186874145347083
+      sosas_17: -6983065864511576347
+      sosas_26: 3399645719746020057
+      sosas_40: 5966274111007725819
+      sosas_28: 7931544121116713206
+      sosas_25: -309475368854763351
+      sosas_7: -2785411417068768081
+      sosas_20: 5798348530784302390
+      sosas_29: 6384912504869600840
+      sosas_10: -8471063816946486673
+      sosas_45: -3117529066528633666
+      sosas_12: 2595415699835754170
+      sosas_19: 9213253812431419485
+      sosas_16: -8392824451344112965
+      sosas_15: -6991514930742348852
+      sosas_24: 847631238992211361
+      sosas_22: -3985714644116671659
+      sosas_14: 5105613541775734553
+      sosas_23: 4746031250160219108
+      sosas_32: -586621738951275892
+      sosas_48: -4586850750143567304
+      sosas_21: -7801486822910872345
+      sosas_2: -5291581942537291495
+      sosas_37: 6726432720499174300
+      sosas_36: -8283931655040778305
+      sosas_8: 1241449559026607281
+      sosas_33: 1702731861532920894
+      sosas_35: 6379535948957681544
+      sosas_5: 8473000922670126360
+      sosas_44: 3797969391773003988
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

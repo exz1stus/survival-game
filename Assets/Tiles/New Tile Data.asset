@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc6e7eec808237e45868388b98a88756, type: 3}
+  m_Name: New Tile Data
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: dd1cba4a0e5556c4a95781289a194814, type: 2}
+  - {fileID: 11400000, guid: 0a46d29be7544454082cebd736a6ba33, type: 2}
+  - {fileID: 11400000, guid: bfd2055b7a8cf174dabd6d907e8c280b, type: 2}
+  walkingSpeed: 12
+  poisonous: 123
